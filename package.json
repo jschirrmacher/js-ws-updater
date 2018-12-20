@@ -2,6 +2,7 @@
   "name": "js-ws-updater",
   "version": "1.0.0",
   "description": "A package to connect a Node.js / express.js backend with a JavaScript frontend via Websocket",
+  "repository": "https://github.com/jschirrmacher/js-ws-updater",
   "main": "index.js",
   "scripts": {
     "test": "mocha **/*.test.js"
